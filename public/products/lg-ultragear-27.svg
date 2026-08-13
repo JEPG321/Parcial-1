@@ -1,0 +1,21 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#120B1F"/>
+  <rect x="82" y="124" width="1036" height="652" rx="54" fill="url(#bg8)"/>
+  <path d="M228 228C228 194.863 254.863 168 288 168H912C945.137 168 972 194.863 972 228V566C972 599.137 945.137 626 912 626H288C254.863 626 228 599.137 228 566V228Z" fill="#09090B" stroke="#F472B6" stroke-opacity="0.3" stroke-width="5"/>
+  <path d="M278 256C278 234.461 295.461 217 317 217H883C904.539 217 922 234.461 922 256V538C922 559.539 904.539 577 883 577H317C295.461 577 278 559.539 278 538V256Z" fill="url(#screen2)"/>
+  <path d="M546 626H654L706 732H494L546 626Z" fill="#18181B"/>
+  <rect x="438" y="732" width="324" height="34" rx="17" fill="#3F3F46"/>
+  <text x="132" y="214" fill="#FAF5FF" font-family="Arial, sans-serif" font-size="54" font-weight="700">LG ULTRAGEAR 27</text>
+  <text x="136" y="734" fill="#F9A8D4" font-family="Arial, sans-serif" font-size="38" font-weight="700">27&quot; OLED | 240 HZ</text>
+  <defs>
+    <linearGradient id="bg8" x1="82" y1="124" x2="1118" y2="776" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18181B"/>
+      <stop offset="1" stop-color="#4A044E"/>
+    </linearGradient>
+    <linearGradient id="screen2" x1="278" y1="217" x2="922" y2="577" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F472B6"/>
+      <stop offset="0.45" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+  </defs>
+</svg>

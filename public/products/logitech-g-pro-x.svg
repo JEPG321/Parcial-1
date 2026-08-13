@@ -1,0 +1,31 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#0B1021"/>
+  <rect x="90" y="138" width="1020" height="624" rx="48" fill="url(#bg4)"/>
+  <rect x="154" y="250" width="892" height="378" rx="36" fill="#111827" stroke="#A78BFA" stroke-opacity="0.25" stroke-width="4"/>
+  <g fill="#1F2937">
+    <rect x="206" y="304" width="96" height="80" rx="16"/>
+    <rect x="314" y="304" width="96" height="80" rx="16"/>
+    <rect x="422" y="304" width="96" height="80" rx="16"/>
+    <rect x="530" y="304" width="96" height="80" rx="16"/>
+    <rect x="638" y="304" width="96" height="80" rx="16"/>
+    <rect x="746" y="304" width="96" height="80" rx="16"/>
+    <rect x="854" y="304" width="96" height="80" rx="16"/>
+    <rect x="206" y="400" width="124" height="80" rx="16"/>
+    <rect x="342" y="400" width="124" height="80" rx="16"/>
+    <rect x="478" y="400" width="124" height="80" rx="16"/>
+    <rect x="614" y="400" width="124" height="80" rx="16"/>
+    <rect x="750" y="400" width="200" height="80" rx="16"/>
+    <rect x="206" y="496" width="180" height="80" rx="16"/>
+    <rect x="398" y="496" width="420" height="80" rx="16"/>
+    <rect x="830" y="496" width="120" height="80" rx="16"/>
+  </g>
+  <path d="M206 304H302M314 304H410M422 304H518M530 304H626M638 304H734M746 304H842M854 304H950" stroke="#22D3EE" stroke-width="8" stroke-linecap="round"/>
+  <text x="136" y="216" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="54" font-weight="700">LOGITECH G PRO X</text>
+  <text x="140" y="714" fill="#C4B5FD" font-family="Arial, sans-serif" font-size="38" font-weight="700">TECLADO MECANICO TKL</text>
+  <defs>
+    <linearGradient id="bg4" x1="90" y1="138" x2="1110" y2="762" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+  </defs>
+</svg>

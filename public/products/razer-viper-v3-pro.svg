@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#061414"/>
+  <rect x="92" y="132" width="1016" height="636" rx="56" fill="url(#bg7)"/>
+  <path d="M600 228C733 228 832 325 832 478C832 586 758 664 600 664C442 664 368 586 368 478C368 325 467 228 600 228Z" fill="#0F172A" stroke="#34D399" stroke-opacity="0.4" stroke-width="5"/>
+  <path d="M600 268C699 268 756 328 756 436V474C756 560 706 620 600 620C494 620 444 560 444 474V436C444 328 501 268 600 268Z" fill="#111827"/>
+  <path d="M600 286V610" stroke="#22C55E" stroke-width="8" stroke-linecap="round"/>
+  <path d="M520 320C520 378 493 428 444 456M680 320C680 378 707 428 756 456" stroke="#34D399" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="600" cy="466" r="28" fill="#86EFAC"/>
+  <text x="132" y="214" fill="#ECFDF5" font-family="Arial, sans-serif" font-size="54" font-weight="700">RAZER VIPER V3 PRO</text>
+  <text x="138" y="724" fill="#A7F3D0" font-family="Arial, sans-serif" font-size="38" font-weight="700">54 g | WIRELESS | 35K DPI</text>
+  <defs>
+    <linearGradient id="bg7" x1="92" y1="132" x2="1108" y2="768" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#052E2B"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>

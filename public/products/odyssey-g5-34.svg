@@ -1,0 +1,21 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#05111C"/>
+  <rect x="108" y="144" width="984" height="612" rx="48" fill="url(#bg3)"/>
+  <path d="M220 260C220 226.863 246.863 200 280 200H920C953.137 200 980 226.863 980 260V540C980 573.137 953.137 600 920 600H280C246.863 600 220 573.137 220 540V260Z" fill="#0F172A" stroke="#38BDF8" stroke-width="5"/>
+  <path d="M270 286C270 264.461 287.461 247 309 247H891C912.539 247 930 264.461 930 286V514C930 535.539 912.539 553 891 553H309C287.461 553 270 535.539 270 514V286Z" fill="url(#screen)"/>
+  <path d="M550 600H650L692 708H508L550 600Z" fill="#1E293B"/>
+  <rect x="446" y="708" width="308" height="34" rx="17" fill="#334155"/>
+  <text x="154" y="224" fill="#E0F2FE" font-family="Arial, sans-serif" font-size="54" font-weight="700">ODYSSEY G5 34</text>
+  <text x="154" y="712" fill="#A5F3FC" font-family="Arial, sans-serif" font-size="38" font-weight="700">34&quot; CURVO | 165 HZ</text>
+  <defs>
+    <linearGradient id="bg3" x1="108" y1="144" x2="1092" y2="756" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#082F49"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="270" y1="247" x2="930" y2="553" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>

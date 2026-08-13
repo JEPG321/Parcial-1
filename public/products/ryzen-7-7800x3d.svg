@@ -1,0 +1,22 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#160C1B"/>
+  <rect x="84" y="108" width="1032" height="684" rx="52" fill="url(#bg2)"/>
+  <rect x="314" y="192" width="572" height="516" rx="42" fill="#1E1B4B" stroke="#F97316" stroke-width="5"/>
+  <rect x="396" y="274" width="408" height="352" rx="32" fill="#0F172A"/>
+  <rect x="454" y="332" width="292" height="236" rx="28" fill="url(#core)"/>
+  <path d="M314 280H258M314 380H258M314 480H258M314 580H258M886 280H942M886 380H942M886 480H942M886 580H942" stroke="#FDBA74" stroke-width="18" stroke-linecap="round"/>
+  <path d="M420 192V130M520 192V130M620 192V130M720 192V130M420 708V770M520 708V770M620 708V770M720 708V770" stroke="#FB923C" stroke-width="18" stroke-linecap="round"/>
+  <text x="132" y="202" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="58" font-weight="700">RYZEN 7 7800X3D</text>
+  <text x="456" y="464" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="70" font-weight="700">3D</text>
+  <text x="130" y="730" fill="#FDBA74" font-family="Arial, sans-serif" font-size="38" font-weight="700">8 nucleos | 16 hilos</text>
+  <defs>
+    <linearGradient id="bg2" x1="84" y1="108" x2="1116" y2="792" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#312E81"/>
+      <stop offset="1" stop-color="#7C2D12"/>
+    </linearGradient>
+    <linearGradient id="core" x1="454" y1="332" x2="746" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+</svg>

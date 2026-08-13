@@ -1,0 +1,26 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#07111F"/>
+  <rect x="72" y="120" width="1056" height="660" rx="44" fill="url(#bg1)"/>
+  <rect x="142" y="256" width="916" height="388" rx="32" fill="#020617" stroke="#22D3EE" stroke-opacity="0.28" stroke-width="4"/>
+  <rect x="194" y="320" width="268" height="260" rx="24" fill="url(#fan)"/>
+  <rect x="466" y="320" width="268" height="260" rx="24" fill="url(#fan)"/>
+  <rect x="738" y="320" width="268" height="260" rx="24" fill="url(#fan)"/>
+  <circle cx="328" cy="450" r="78" stroke="#67E8F9" stroke-width="16"/>
+  <circle cx="600" cy="450" r="78" stroke="#67E8F9" stroke-width="16"/>
+  <circle cx="872" cy="450" r="78" stroke="#67E8F9" stroke-width="16"/>
+  <path d="M328 404L343 435L378 439L353 463L359 498L328 482L297 498L303 463L278 439L313 435L328 404Z" fill="#22D3EE"/>
+  <path d="M600 404L615 435L650 439L625 463L631 498L600 482L569 498L575 463L550 439L585 435L600 404Z" fill="#22D3EE"/>
+  <path d="M872 404L887 435L922 439L897 463L903 498L872 482L841 498L847 463L822 439L857 435L872 404Z" fill="#22D3EE"/>
+  <text x="140" y="196" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="54" font-weight="700">RTX 4070 SUPER</text>
+  <text x="140" y="734" fill="#F97316" font-family="Arial, sans-serif" font-size="38" font-weight="700">12 GB GDDR6X</text>
+  <defs>
+    <linearGradient id="bg1" x1="72" y1="120" x2="1128" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0C4A6E"/>
+    </linearGradient>
+    <linearGradient id="fan" x1="194" y1="320" x2="462" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+</svg>
